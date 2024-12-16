@@ -9,7 +9,11 @@ module.exports = {
       xl: '1440px'
 
     },
-    extend: {},
+    extend: {
+      colors: {
+        brightRed: 'hsl(12, 88%, 59%)',
+      }
+    },
   },
   plugins: [],
 }
